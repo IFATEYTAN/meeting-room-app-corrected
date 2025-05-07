@@ -1,4 +1,3 @@
-// למשל: src/app/calendar/layout.tsx
 export default function DashboardLayout({
       children,
 }: {
