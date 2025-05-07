@@ -1,13 +1,7 @@
-export default function RootLayout({
+export default function DashboardLayout({
   children,
 }: {
   children: React.ReactNode
 }) {
-  return (
-    <html lang="he" dir="rtl">
-      <body>
-        {children}
-      </body>
-    </html>
-  )
+  return <>{children}</>
 }
