@@ -1,6 +1,6 @@
 // למשל: src/app/calendar/layout.tsx
-export default function CalendarLayout({
-  children,
+export default function DashboardLayout({
+      children,
 }: {
   children: React.ReactNode
 }) {

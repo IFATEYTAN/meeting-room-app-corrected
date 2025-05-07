@@ -1,5 +1,5 @@
 // למשל: src/app/calendar/layout.tsx
-export default function CalendarLayout({
+export default function CalendarIntegrationLayout({
   children,
 }: {
   children: React.ReactNode
